@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+  border-style: groove;
+}
+
+#title {
+  text-align: center;
+}
+
+.links {
+  padding-left: 265px;
+  text-align: center;
+}
