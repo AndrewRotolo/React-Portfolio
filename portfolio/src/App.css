@@ -4,6 +4,7 @@ body {
 
 .container {
   border-style: groove;
+  background-color: silver;
 }
 
 #title {
@@ -13,4 +14,52 @@ body {
 .links {
   padding-left: 265px;
   text-align: center;
+}
+
+#pfp {
+  position: relative;
+  left: 42%;
+}
+
+.center {
+  text-align: center;
+}
+
+#translator {
+  position: relative;
+  left: 30%;
+  padding-bottom: 30px;
+}
+
+#readme {
+  position: relative;
+  left: 23%;
+  padding-bottom: 30px;
+}
+
+#logoGen {
+  position: relative;
+  left: 23%;
+  padding-bottom: 30px;
+}
+
+#cms {
+  position: relative;
+  left: 26%;
+  padding-bottom: 30px;
+}
+
+#ecom {
+  position: relative;
+  left: 35%;
+  padding-bottom: 30px
+}
+
+#foot {
+  border-top: groove;
+}
+
+#resume {
+  position: relative;
+  left: 19%;
 }
